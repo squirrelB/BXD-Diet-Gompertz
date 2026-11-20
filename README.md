@@ -1,1 +1,0 @@
-# BXD-Diet-Gompertz
